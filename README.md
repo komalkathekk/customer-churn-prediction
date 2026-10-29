@@ -75,10 +75,10 @@ The confusion matrix reported 955 true positives, 22 false negatives, 855 true n
 
 ## Repository Contents
 Update this list to match the files you actually upload:
-- `README.md` â€” project summary, workflow, findings, and limitations
-- `customer_churn_prediction.ipynb` â€” recommended runnable notebook, if available
-- `customer_churn_prediction_report.pdf` â€” final project report
-- `customer_churn_prediction_notebook.html` â€” exported notebook for browser viewing, if included
+- `README.md`  project summary, workflow, findings, and limitations
+- `customer_churn_prediction.ipynb`  recommended runnable notebook, if available
+- `customer_churn_prediction_report.pdf` final project report
+- `customer_churn_prediction_notebook.html`  exported notebook for browser viewing, if included
 
 ## Limitations
 - The results depend on the dataset and preprocessing decisions documented in the project report.
