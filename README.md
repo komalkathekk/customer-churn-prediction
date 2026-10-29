@@ -73,10 +73,8 @@ The confusion matrix reported 955 true positives, 22 false negatives, 855 true n
 - Review the electronic-check payment experience and investigate related customer feedback.
 - Monitor precision, recall, false-positive volume, and retention outcomes if the model is piloted.
 
-## Repository Contents
-Update this list to match the files you actually upload:
+## Repository Contents 
 - `README.md`  project summary, workflow, findings, and limitations
-- `customer_churn_prediction.ipynb`  recommended runnable notebook, if available
 - `customer_churn_prediction_report.pdf` final project report
 - `customer_churn_prediction_notebook.html`  exported notebook for browser viewing, if included
 
